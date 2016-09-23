@@ -23,3 +23,4 @@ Interesting stuff I like on the web
 - [Totally Tooling Tips | Web Shows - Google Developers](https://developers.google.com/web/shows/ttt/) 
 - [AddyOsmani.com](https://addyosmani.com/) 
 - [Material Design Lite](https://getmdl.io/index.html) 
+- [Coding is boring, unless…](https://blog.enki.com/coding-is-boring-unless-4e496720d664#.6b4j9hlt4) 
