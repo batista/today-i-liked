@@ -6,3 +6,4 @@ Interesting stuff I like on the web
 - [10 Top Mistakes AngularJS Developers Make](https://www.airpair.com/angularjs/posts/top-10-mistakes-angularjs-developers-make) 
 - [Flow | A static type checker for JavaScript](https://flowtype.org/) 
 - [websemantics/journey: Capture your learning journey with the world and connect with awesome people who share your passion.](https://github.com/websemantics/journey) 
+- [sindresorhus/likes: Interesting stuff I like on the web](https://github.com/sindresorhus/likes) 
