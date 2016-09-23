@@ -30,3 +30,4 @@ Interesting stuff I like on the web
 - [The 100% correct way to validate email addresses](https://hackernoon.com/the-100-correct-way-to-validate-email-addresses-7c4818f24643#.d2m0d2pyx) 
 - [Why Experts Make Bad Teachers – Medium](https://medium.com/@cscalfani/why-experts-make-bad-teachers-ccaed2df029b#.sn81wmfw5) 
 - [30 Learning Resources For Mastering Angular 2 | Tutorialzine](http://tutorialzine.com/2016/09/30-learning-resources-for-mastering-angular-2/) 
+- [Getting Started with Protractor and Cucumber - Semaphore](https://semaphoreci.com/community/tutorials/getting-started-with-protractor-and-cucumber) 
