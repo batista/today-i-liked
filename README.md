@@ -24,3 +24,4 @@ Interesting stuff I like on the web
 - [AddyOsmani.com](https://addyosmani.com/) 
 - [Material Design Lite](https://getmdl.io/index.html) 
 - [Coding is boring, unless…](https://blog.enki.com/coding-is-boring-unless-4e496720d664#.6b4j9hlt4) 
+- [Smooth as Butter: Achieving 60 FPS Animations with CSS3 – OutSystems Experts – Medium](https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108#.bj7hulrgg) 
