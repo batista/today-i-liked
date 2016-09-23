@@ -16,3 +16,4 @@ Interesting stuff I like on the web
 - [The GitHub GraphQL API - GitHub Engineering](http://githubengineering.com/the-github-graphql-api/) 
 - [Android Intents with Chrome - Google Chrome](https://developer.chrome.com/multidevice/android/intents) 
 - [Angular 2 Lessons - Screencast Video Tutorials @eggheadio](https://egghead.io/technologies/angular2?utm_source=twitter&utm_medium=social&utm_content=angular-2&utm_campaign=angular-2-release) 
+- [The "Goal" of Performance Tuning - via @codeship | via @codeship](https://blog.codeship.com/goal-performance-tuning/?utm_campaign=Weekly%20Newsletters&utm_content=goal%25performance%20tuning&utm_medium=newsletter&utm_source=email&utm_campaign=Weekly+Newsletters&utm_source=hs_email&utm_medium=email&utm_content=33550204&_hsenc=p2ANqtz-_Mu9yun-SLHl8xDtW2cXLPPd9k7A61eU74ll4x6ZfUWzzgDudrIZEvtea1B0yhlryjTsyK17rQDcHee8wBlDvo9I-Y2g&_hsmi=33550494) 
