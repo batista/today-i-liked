@@ -31,3 +31,4 @@ Interesting stuff I like on the web
 - [Why Experts Make Bad Teachers – Medium](https://medium.com/@cscalfani/why-experts-make-bad-teachers-ccaed2df029b#.sn81wmfw5) 
 - [30 Learning Resources For Mastering Angular 2 | Tutorialzine](http://tutorialzine.com/2016/09/30-learning-resources-for-mastering-angular-2/) 
 - [Getting Started with Protractor and Cucumber - Semaphore](https://semaphoreci.com/community/tutorials/getting-started-with-protractor-and-cucumber) 
+- [Building and Securing a Modern Backend API | Scotch](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api) 
