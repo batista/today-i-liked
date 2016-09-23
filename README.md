@@ -9,3 +9,4 @@ Interesting stuff I like on the web
 - [sindresorhus/likes: Interesting stuff I like on the web](https://github.com/sindresorhus/likes) 
 - [DavideViolante/Angular2-Full-Stack: Angular 2 Full Stack project built using Angular 2, Angular CLI, Express, Mongoose and Node.](https://github.com/DavideViolante/Angular2-Full-Stack) 
 - [GraphQL | A query language for your API](http://graphql.org/) 
+- [ziyasal/scientist.js: A JavaScript interpretation of the Ruby library Scientist, a library for carefully refactoring critical paths.](https://github.com/ziyasal/scientist.js) 
