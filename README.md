@@ -21,3 +21,4 @@ Interesting stuff I like on the web
 - [About - Google Fonts](https://fonts.google.com/about) 
 - [Using NativeScript with Angular 2.0](http://www.syntaxsuccess.com/viewarticle/using-nativescript-with-angular-2.0) 
 - [Totally Tooling Tips | Web Shows - Google Developers](https://developers.google.com/web/shows/ttt/) 
+- [AddyOsmani.com](https://addyosmani.com/) 
