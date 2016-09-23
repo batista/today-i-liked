@@ -13,3 +13,4 @@ Interesting stuff I like on the web
 - [trello/scientist: A Node.js library for carefully refactoring critical paths in production](https://github.com/trello/scientist) 
 - [github/scientist: A Ruby library for carefully refactoring critical paths.](https://github.com/github/scientist) 
 - [Scientist: Measure Twice, Cut Over Once - GitHub Engineering](http://githubengineering.com/scientist/) 
+- [The GitHub GraphQL API - GitHub Engineering](http://githubengineering.com/the-github-graphql-api/) 
