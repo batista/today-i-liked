@@ -26,3 +26,4 @@ Interesting stuff I like on the web
 - [Coding is boring, unless…](https://blog.enki.com/coding-is-boring-unless-4e496720d664#.6b4j9hlt4) 
 - [Smooth as Butter: Achieving 60 FPS Animations with CSS3 – OutSystems Experts – Medium](https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108#.bj7hulrgg) 
 - [Barbarian Meets Coding](https://www.barbarianmeetscoding.com/) 
+- [Hackevents – All Hackathons in One Place](http://hackevents.co/hackathons) 
