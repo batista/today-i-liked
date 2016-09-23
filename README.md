@@ -33,3 +33,4 @@ Interesting stuff I like on the web
 - [Getting Started with Protractor and Cucumber - Semaphore](https://semaphoreci.com/community/tutorials/getting-started-with-protractor-and-cucumber) 
 - [Building and Securing a Modern Backend API | Scotch](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api) 
 - [The Best Development and Web Design Tutorials on YouTube DebugMe Blog](http://blog.debugme.eu/development-and-web-design-tutorials/) 
+- [9 Security Tips to Keep Express from Getting Pwned](https://nodesource.com/blog/nine-security-tips-to-keep-express-from-getting-pwned/) 
