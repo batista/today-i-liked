@@ -15,3 +15,4 @@ Interesting stuff I like on the web
 - [Scientist: Measure Twice, Cut Over Once - GitHub Engineering](http://githubengineering.com/scientist/) 
 - [The GitHub GraphQL API - GitHub Engineering](http://githubengineering.com/the-github-graphql-api/) 
 - [Android Intents with Chrome - Google Chrome](https://developer.chrome.com/multidevice/android/intents) 
+- [Angular 2 Lessons - Screencast Video Tutorials @eggheadio](https://egghead.io/technologies/angular2?utm_source=twitter&utm_medium=social&utm_content=angular-2&utm_campaign=angular-2-release) 
