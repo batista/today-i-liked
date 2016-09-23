@@ -19,3 +19,4 @@ Interesting stuff I like on the web
 - [The "Goal" of Performance Tuning - via @codeship | via @codeship](https://blog.codeship.com/goal-performance-tuning/?utm_campaign=Weekly%20Newsletters&utm_content=goal%25performance%20tuning&utm_medium=newsletter&utm_source=email&utm_campaign=Weekly+Newsletters&utm_source=hs_email&utm_medium=email&utm_content=33550204&_hsenc=p2ANqtz-_Mu9yun-SLHl8xDtW2cXLPPd9k7A61eU74ll4x6ZfUWzzgDudrIZEvtea1B0yhlryjTsyK17rQDcHee8wBlDvo9I-Y2g&_hsmi=33550494) 
 - [AddyOsmani.com - Improving Web App Performance With the Chrome DevTools Timeline and Profiles](https://addyosmani.com/blog/performance-optimisation-with-timeline-profiles/) 
 - [About - Google Fonts](https://fonts.google.com/about) 
+- [Using NativeScript with Angular 2.0](http://www.syntaxsuccess.com/viewarticle/using-nativescript-with-angular-2.0) 
