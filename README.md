@@ -14,3 +14,4 @@ Interesting stuff I like on the web
 - [github/scientist: A Ruby library for carefully refactoring critical paths.](https://github.com/github/scientist) 
 - [Scientist: Measure Twice, Cut Over Once - GitHub Engineering](http://githubengineering.com/scientist/) 
 - [The GitHub GraphQL API - GitHub Engineering](http://githubengineering.com/the-github-graphql-api/) 
+- [Android Intents with Chrome - Google Chrome](https://developer.chrome.com/multidevice/android/intents) 
