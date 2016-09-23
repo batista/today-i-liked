@@ -35,3 +35,4 @@ Interesting stuff I like on the web
 - [The Best Development and Web Design Tutorials on YouTube DebugMe Blog](http://blog.debugme.eu/development-and-web-design-tutorials/) 
 - [9 Security Tips to Keep Express from Getting Pwned](https://nodesource.com/blog/nine-security-tips-to-keep-express-from-getting-pwned/) 
 - [devtools-html/debugger.html: The Firefox debugger that works anywhere](https://github.com/devtools-html/debugger.html) 
+- [The Inner JSON Effect - The Daily WTF](http://thedailywtf.com/articles/the-inner-json-effect) 
