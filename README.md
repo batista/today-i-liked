@@ -12,3 +12,4 @@ Interesting stuff I like on the web
 - [ziyasal/scientist.js: A JavaScript interpretation of the Ruby library Scientist, a library for carefully refactoring critical paths.](https://github.com/ziyasal/scientist.js) 
 - [trello/scientist: A Node.js library for carefully refactoring critical paths in production](https://github.com/trello/scientist) 
 - [github/scientist: A Ruby library for carefully refactoring critical paths.](https://github.com/github/scientist) 
+- [Scientist: Measure Twice, Cut Over Once - GitHub Engineering](http://githubengineering.com/scientist/) 
