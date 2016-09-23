@@ -27,3 +27,4 @@ Interesting stuff I like on the web
 - [Smooth as Butter: Achieving 60 FPS Animations with CSS3 – OutSystems Experts – Medium](https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108#.bj7hulrgg) 
 - [Barbarian Meets Coding](https://www.barbarianmeetscoding.com/) 
 - [Hackevents – All Hackathons in One Place](http://hackevents.co/hackathons) 
+- [The 100% correct way to validate email addresses](https://hackernoon.com/the-100-correct-way-to-validate-email-addresses-7c4818f24643#.d2m0d2pyx) 
