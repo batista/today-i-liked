@@ -36,3 +36,6 @@ Interesting stuff I like on the web
 - [9 Security Tips to Keep Express from Getting Pwned](https://nodesource.com/blog/nine-security-tips-to-keep-express-from-getting-pwned/) 
 - [devtools-html/debugger.html: The Firefox debugger that works anywhere](https://github.com/devtools-html/debugger.html) 
 - [The Inner JSON Effect - The Daily WTF](http://thedailywtf.com/articles/the-inner-json-effect) 
+
+### September 27, 2016
+- [Dyslexie Font: The dyslexia font which eases the reading](https://www.dyslexiefont.com/en/) 
