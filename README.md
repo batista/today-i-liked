@@ -40,3 +40,6 @@ Interesting stuff I like on the web
 ### September 27, 2016
 - [Dyslexie Font: The dyslexia font which eases the reading](https://www.dyslexiefont.com/en/) 
 - [Dsyxilea](http://geon.github.io/programming/2016/03/03/dsxyliea) 
+
+### September 28, 2016
+- [The art of writing small and plain functions](https://rainsoft.io/the-art-of-writing-small-and-plain-functions/?utm_source=mybridge&utm_medium=email&utm_campaign=read_more) 
