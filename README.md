@@ -43,3 +43,6 @@ Interesting stuff I like on the web
 
 ### September 28, 2016
 - [The art of writing small and plain functions](https://rainsoft.io/the-art-of-writing-small-and-plain-functions/?utm_source=mybridge&utm_medium=email&utm_campaign=read_more) 
+
+### September 29, 2016
+- [Valuable Content Award for the crazy LINGsCARS.com website - Valuable Content](http://www.valuablecontent.co.uk/blog/valuable-content-award-for-ling-valentine-lingscars-com) 
