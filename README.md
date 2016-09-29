@@ -46,3 +46,4 @@ Interesting stuff I like on the web
 
 ### September 29, 2016
 - [Valuable Content Award for the crazy LINGsCARS.com website - Valuable Content](http://www.valuablecontent.co.uk/blog/valuable-content-award-for-ling-valentine-lingscars-com) 
+- [*** LINGsCARS ***](http://www.lingscars.com/) 
