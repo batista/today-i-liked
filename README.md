@@ -47,3 +47,6 @@ Interesting stuff I like on the web
 ### September 29, 2016
 - [Valuable Content Award for the crazy LINGsCARS.com website - Valuable Content](http://www.valuablecontent.co.uk/blog/valuable-content-award-for-ling-valentine-lingscars-com) 
 - [*** LINGsCARS ***](http://www.lingscars.com/) 
+
+### September 30, 2016
+- [Sendy - Send Newsletters 100x cheaper via Amazon SES](https://sendy.co/) 
