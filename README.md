@@ -51,3 +51,6 @@ Interesting stuff I like on the web
 ### September 30, 2016
 - [Sendy - Send Newsletters 100x cheaper via Amazon SES](https://sendy.co/) 
 - [Your Body Text Is Too Small – Medium](https://medium.com/@xtianmiller/your-body-text-is-too-small-5e02d36dc902#.j93pvqulr) 
+
+### October 3, 2016
+- [GitHub Audio](https://github.audio/) 
