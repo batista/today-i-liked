@@ -55,3 +55,6 @@ Interesting stuff I like on the web
 ### October 3, 2016
 - [GitHub Audio](https://github.audio/) 
 - [A Practical Guide To Convert Your Sketches To Working Prototypes](https://stories.uplabs.com/a-practical-guide-to-convert-your-sketches-to-working-prototypes-5b1a732d1eb5#.32wg8th2u) 
+
+### October 6, 2016
+- [James Monger](http://www.jamesmonger.com/post/dynamic-content-github-pages.htm) 
