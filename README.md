@@ -58,3 +58,4 @@ Interesting stuff I like on the web
 
 ### October 6, 2016
 - [James Monger](http://www.jamesmonger.com/post/dynamic-content-github-pages.htm) 
+- [sharp](http://sharp.dimens.io/en/stable/) 
