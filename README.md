@@ -59,3 +59,6 @@ Interesting stuff I like on the web
 ### October 6, 2016
 - [James Monger](http://www.jamesmonger.com/post/dynamic-content-github-pages.htm) 
 - [sharp](http://sharp.dimens.io/en/stable/) 
+
+### October 8, 2016
+- [A Javascript journey with only six characters](http://jazcash.com/a-javascript-journey-with-only-six-characters/) 
