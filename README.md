@@ -70,3 +70,4 @@ Interesting stuff I like on the web
 - [Abhinav Rastogi, Flipkart - Handling performance for Progressive Web Apps at scale - YouTube](https://www.youtube.com/watch?v=K-AqHUiL-bI) 
 - [Next Gen Web: Scaling Progressive Web Apps // Speaker Deck](https://speakerdeck.com/abhinavrastogi/next-gen-web-scaling-progressive-web-apps) 
 - [Sellpy - Vi säljer det du inte orkar sälja själv!](https://www.sellpy.se/) 
+- [Complexion Reduction: A New Trend in Mobile Design – SWARM Thoughts – Medium](https://medium.com/swarm-nyc/complexion-reduction-a-new-trend-in-mobile-design-cef033a0b978#.cw85n11ig) 
