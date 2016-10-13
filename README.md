@@ -68,3 +68,4 @@ Interesting stuff I like on the web
 - [AddyOsmani.com - Getting started with Progressive Web Apps](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/) 
 - [Service Workers: an Introduction  |  Web  |  Google Developers](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers) 
 - [Abhinav Rastogi, Flipkart - Handling performance for Progressive Web Apps at scale - YouTube](https://www.youtube.com/watch?v=K-AqHUiL-bI) 
+- [Next Gen Web: Scaling Progressive Web Apps // Speaker Deck](https://speakerdeck.com/abhinavrastogi/next-gen-web-scaling-progressive-web-apps) 
