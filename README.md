@@ -62,3 +62,6 @@ Interesting stuff I like on the web
 
 ### October 8, 2016
 - [A Javascript journey with only six characters](http://jazcash.com/a-javascript-journey-with-only-six-characters/) 
+
+### October 13, 2016
+- [Lazy load AngularJS with Webpack - Michal Zalecki](http://michalzalecki.com/lazy-load-angularjs-with-webpack/) 
