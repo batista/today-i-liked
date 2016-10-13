@@ -72,3 +72,4 @@ Interesting stuff I like on the web
 - [Sellpy - Vi säljer det du inte orkar sälja själv!](https://www.sellpy.se/) 
 - [Complexion Reduction: A New Trend in Mobile Design – SWARM Thoughts – Medium](https://medium.com/swarm-nyc/complexion-reduction-a-new-trend-in-mobile-design-cef033a0b978#.cw85n11ig) 
 - [Dirty Tricks From The Dark Corners Of Front-End // Speaker Deck](https://speakerdeck.com/smashingmag/dirty-tricks-from-the-dark-corners-of-front-end) 
+- [A Javascript journey with only six characters](http://jazcash.com/a-javascript-journey-with-only-six-characters/) 
