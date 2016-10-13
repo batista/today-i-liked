@@ -73,3 +73,4 @@ Interesting stuff I like on the web
 - [Complexion Reduction: A New Trend in Mobile Design – SWARM Thoughts – Medium](https://medium.com/swarm-nyc/complexion-reduction-a-new-trend-in-mobile-design-cef033a0b978#.cw85n11ig) 
 - [Dirty Tricks From The Dark Corners Of Front-End // Speaker Deck](https://speakerdeck.com/smashingmag/dirty-tricks-from-the-dark-corners-of-front-end) 
 - [A Javascript journey with only six characters](http://jazcash.com/a-javascript-journey-with-only-six-characters/) 
+- [Forget Technical Debt — Here's How to Build Technical Wealth | First Round Review](http://firstround.com/review/forget-technical-debt-heres-how-to-build-technical-wealth/?ct=t%28How_Does_Your_Leadership_Team_Rate_12_3_2015%29) 
