@@ -66,3 +66,4 @@ Interesting stuff I like on the web
 ### October 13, 2016
 - [Lazy load AngularJS with Webpack - Michal Zalecki](http://michalzalecki.com/lazy-load-angularjs-with-webpack/) 
 - [AddyOsmani.com - Getting started with Progressive Web Apps](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/) 
+- [Service Workers: an Introduction  |  Web  |  Google Developers](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers) 
