@@ -83,3 +83,4 @@ Interesting stuff I like on the web
 - [Offline, progressive, and multithreaded: webapps of the future](https://nolanlawson.github.io/fronteers-2016/#/) 
 - [The offline cookbook - JakeArchibald.com](https://jakearchibald.com/2014/offline-cookbook/) 
 - [Offline Web Applications | Udacity](https://www.udacity.com/course/offline-web-applications--ud899) 
+- [Is ServiceWorker ready?](https://jakearchibald.github.io/isserviceworkerready/) 
