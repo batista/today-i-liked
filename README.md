@@ -81,3 +81,4 @@ Interesting stuff I like on the web
 - [HTTP/2 in Developing Nations - Jeremy Wagner](https://jeremywagner.me/blog/http2-in-developing-nations) 
 - [Serve your app - Polymer Project](https://www.polymer-project.org/1.0/toolbox/server) 
 - [Offline, progressive, and multithreaded: webapps of the future](https://nolanlawson.github.io/fronteers-2016/#/) 
+- [The offline cookbook - JakeArchibald.com](https://jakearchibald.com/2014/offline-cookbook/) 
