@@ -79,3 +79,4 @@ Interesting stuff I like on the web
 ### October 14, 2016
 - [Progressive enhancement isn’t dead, but it smells funny | Read the Tea Leaves](https://nolanlawson.com/2016/10/13/progressive-enhancement-isnt-dead-but-it-smells-funny/) 
 - [HTTP/2 in Developing Nations - Jeremy Wagner](https://jeremywagner.me/blog/http2-in-developing-nations) 
+- [Serve your app - Polymer Project](https://www.polymer-project.org/1.0/toolbox/server) 
