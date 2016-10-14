@@ -86,3 +86,4 @@ Interesting stuff I like on the web
 - [Is ServiceWorker ready?](https://jakearchibald.github.io/isserviceworkerready/) 
 - [The State Of JavaScript 2016: Results](https://medium.freecodecamp.com/the-state-of-javascript-2016-results-4beb4ff06961#.eq04sixab) 
 - [The average web page from top twenty Google results study](https://www.advancedwebranking.com/html/) 
+- [JavaScript Refactoring Techniques: Specific to Generic Code](https://www.sitepoint.com/javascript-refactoring-techniques-specific-to-generic-code/?utm_content=buffer0d4a5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
