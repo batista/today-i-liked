@@ -85,3 +85,4 @@ Interesting stuff I like on the web
 - [Offline Web Applications | Udacity](https://www.udacity.com/course/offline-web-applications--ud899) 
 - [Is ServiceWorker ready?](https://jakearchibald.github.io/isserviceworkerready/) 
 - [The State Of JavaScript 2016: Results](https://medium.freecodecamp.com/the-state-of-javascript-2016-results-4beb4ff06961#.eq04sixab) 
+- [The average web page from top twenty Google results study](https://www.advancedwebranking.com/html/) 
