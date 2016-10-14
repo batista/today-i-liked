@@ -75,3 +75,6 @@ Interesting stuff I like on the web
 - [A Javascript journey with only six characters](http://jazcash.com/a-javascript-journey-with-only-six-characters/) 
 - [Forget Technical Debt — Here's How to Build Technical Wealth | First Round Review](http://firstround.com/review/forget-technical-debt-heres-how-to-build-technical-wealth/?ct=t%28How_Does_Your_Leadership_Team_Rate_12_3_2015%29) 
 - [Tools | Performance Tooling Today](http://www.perf-tooling.today/tools) 
+
+### October 14, 2016
+- [Progressive enhancement isn’t dead, but it smells funny | Read the Tea Leaves](https://nolanlawson.com/2016/10/13/progressive-enhancement-isnt-dead-but-it-smells-funny/) 
