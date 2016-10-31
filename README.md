@@ -90,3 +90,4 @@ Interesting stuff I like on the web
 
 ### October 31, 2016
 - [SBoudrias/Inquirer.js: A collection of common interactive command line user interfaces.](https://github.com/SBoudrias/Inquirer.js/) 
+- [10 things to know about Gulp](http://engineroom.teamwork.com/10-things-to-know-about-gulp/) 
