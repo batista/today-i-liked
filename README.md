@@ -96,3 +96,4 @@ Interesting stuff I like on the web
 ### November 4, 2016
 - [The Ultimate Guide to Remote Work - Zapier](https://zapier.com/learn/the-ultimate-guide-to-remote-working/) 
 - [It’s 2016, why are you still going to the office?](https://blog.prototypr.io/its-2016-why-are-you-still-going-to-the-office-bf3746c9eb74#.2p30chnjy) 
+- [The future for Angular 1.x, what next?](https://toddmotto.com/future-of-angular-1-x) 
