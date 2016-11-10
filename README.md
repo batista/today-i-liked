@@ -97,3 +97,6 @@ Interesting stuff I like on the web
 - [The Ultimate Guide to Remote Work - Zapier](https://zapier.com/learn/the-ultimate-guide-to-remote-working/) 
 - [It’s 2016, why are you still going to the office?](https://blog.prototypr.io/its-2016-why-are-you-still-going-to-the-office-bf3746c9eb74#.2p30chnjy) 
 - [The future for Angular 1.x, what next?](https://toddmotto.com/future-of-angular-1-x) 
+
+### November 10, 2016
+- [How to pick startup ideas](http://www.defmacro.org/2015/02/25/startup-ideas.html) 
