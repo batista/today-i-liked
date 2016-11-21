@@ -102,3 +102,6 @@ Interesting stuff I like on the web
 - [How to pick startup ideas](http://www.defmacro.org/2015/02/25/startup-ideas.html) 
 - [REMOTE: The new book from 37signals](https://37signals.com/remote) 
 - [Team Handbook | GitLab](https://about.gitlab.com/handbook/) 
+
+### November 21, 2016
+- [getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.](https://github.com/getify/You-Dont-Know-JS) 
