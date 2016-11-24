@@ -106,3 +106,6 @@ Interesting stuff I like on the web
 ### November 21, 2016
 - [getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.](https://github.com/getify/You-Dont-Know-JS) 
 - [Optimizing AngularJS: 1200ms to 35ms - Scalyr Blog](http://blog.scalyr.com/2013/10/angularjs-1200ms-to-35ms/) 
+
+### November 25, 2016
+- [CSS Reference - A free visual guide to the most popular CSS properties.](http://cssreference.io/#hn) 
