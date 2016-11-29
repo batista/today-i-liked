@@ -109,3 +109,6 @@ Interesting stuff I like on the web
 
 ### November 25, 2016
 - [CSS Reference - A free visual guide to the most popular CSS properties.](http://cssreference.io/#hn) 
+
+### November 29, 2016
+- [Commitizen by commitizen](http://commitizen.github.io/cz-cli/) 
