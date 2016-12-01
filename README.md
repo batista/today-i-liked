@@ -112,3 +112,6 @@ Interesting stuff I like on the web
 
 ### November 29, 2016
 - [Commitizen by commitizen](http://commitizen.github.io/cz-cli/) 
+
+### December 1, 2016
+- [JavaScript Speech Recognition](https://davidwalsh.name/speech-recognition?utm_source=javascriptweekly&utm_medium=email) 
