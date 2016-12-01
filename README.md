@@ -115,3 +115,4 @@ Interesting stuff I like on the web
 
 ### December 1, 2016
 - [JavaScript Speech Recognition](https://davidwalsh.name/speech-recognition?utm_source=javascriptweekly&utm_medium=email) 
+- [annyang! Easily add speech recognition to your site](https://www.talater.com/annyang/) 
